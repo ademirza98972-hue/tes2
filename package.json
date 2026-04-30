@@ -1,0 +1,8 @@
+{
+  "name": "nova-audio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
